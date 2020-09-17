@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colourFive">#2B4AFC</color>
+    <color name="colourFive_divider">#5F80C3FB</color>
+
+    <color name="red">#FE2924</color>
+    <color name="green">#24CB4C</color>
+    <color name="black">#000000</color>
+
+    <color name="blue">#4277FF</color>
+    <color name="places_dark_brown">#875D24</color>
+
+    <color name="white">#FFFF</color>
+    <color name="myorange">#FF791B</color>
+    <color name="clear">#00FFFFFF</color>
+
+</resources>
